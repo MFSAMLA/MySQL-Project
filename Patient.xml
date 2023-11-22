@@ -1,0 +1,60 @@
+--521425136
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient>
+    <PATIENT>
+        <PatientID>321</PatientID>
+        <Surname>Smith</Surname>
+        <NameWithInitials>J. A. Smith</NameWithInitials>
+        <Address>123 Main Street, City, Country</Address>
+        <Age>35</Age>
+        <Allergies>Peanuts</Allergies>
+        <BloodType>A+</BloodType>
+    </PATIENT>
+    <PATIENT>
+        <PatientID>322</PatientID>
+        <Surname>Johnson</Surname>
+        <NameWithInitials>M. T. Johnson</NameWithInitials>
+        <Address>46 Elm Avenue, Town, Country</Address>
+        <Age>45</Age>
+        <Allergies>None</Allergies>
+        <BloodType>B-</BloodType>
+    </PATIENT>
+    <PATIENT>
+        <PatientID>323</PatientID>
+        <Surname>Doe</Surname>
+        <NameWithInitials>L. K. Doe</NameWithInitials>
+        <Address>789 Oak Road, Village, Country</Address>
+        <Age>28</Age>
+        <Allergies>Shellfish</Allergies>
+        <BloodType>O+</BloodType>
+    </PATIENT>
+    <PATIENT>
+        <PatientID>324</PatientID>
+        <Surname>Langan</Surname>
+        <NameWithInitials>Langan.p</NameWithInitials>
+        <Address>699 Main Street, City, Country</Address>
+        <Age>35</Age>
+        <Allergies>Penicilium</Allergies>
+        <BloodType>A+</BloodType>
+    </PATIENT>
+    <PATIENT>
+        <PatientID>325</PatientID>
+        <Surname>Farade</Surname>
+        <NameWithInitials>M.J Farade</NameWithInitials>
+        <Address>256 Avenue, Town, Country</Address>
+        <Age>45</Age>
+        <Allergies>None</Allergies>
+        <BloodType>B-</BloodType>
+    </PATIENT>
+    <PATIENT>
+        <PatientID>326</PatientID>
+        <Surname>Frankly</Surname>
+        <NameWithInitials>Frankly .W</NameWithInitials>
+        <Address>989 Park Road,Country</Address>
+        <Age>28</Age>
+        <Allergies>Shellfish</Allergies>
+        <BloodType>O+</BloodType>
+    </PATIENT>
+   
+</Patient>
+
